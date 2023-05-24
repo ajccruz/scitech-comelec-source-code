@@ -1,0 +1,44 @@
+%NAME%
+mingw-w64-x86_64-devhelp
+
+%VERSION%
+3.8.2-2
+
+%BASE%
+mingw-w64-devhelp
+
+%DESC%
+Remote desktop client for the GNOME Desktop (mingw-w64)
+
+%URL%
+https://www.gnome.org
+
+%ARCH%
+any
+
+%BUILDDATE%
+1476947965
+
+%INSTALLDATE%
+1521361446
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+1077248
+
+%LICENSE%
+GPL 2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-gtk3
+mingw-w64-x86_64-gsettings-desktop-schemas
+mingw-w64-x86_64-adwaita-icon-theme
+mingw-w64-x86_64-webkitgtk3
+mingw-w64-x86_64-png2ico
+mingw-w64-x86_64-python2
+

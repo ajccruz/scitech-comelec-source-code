@@ -1,0 +1,684 @@
+[2016-10-25 11:31] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2016-10-25 11:31] [PACMAN] synchronizing package lists
+[2016-10-25 11:31] [PACMAN] starting core system upgrade
+[2016-10-25 11:31] [PACMAN] starting full system upgrade
+[2016-10-25 11:31] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2016-10-25 11:32] [ALPM] transaction started
+[2016-10-25 11:32] [ALPM] installed msys2-runtime (2.6.0-1)
+[2016-10-25 11:32] [ALPM] installed bash (4.3.046-1)
+[2016-10-25 11:32] [ALPM] installed bash-completion (2.3-1)
+[2016-10-25 11:32] [ALPM] installed gcc-libs (5.3.0-3)
+[2016-10-25 11:32] [ALPM] installed libbz2 (1.0.6-2)
+[2016-10-25 11:32] [ALPM] installed libiconv (1.14-2)
+[2016-10-25 11:32] [ALPM] installed libintl (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed libgettextpo (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed libasprintf (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed gettext (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed liblzma (5.2.2-1)
+[2016-10-25 11:32] [ALPM] installed liblzo2 (2.09-1)
+[2016-10-25 11:32] [ALPM] installed gmp (6.1.0-2)
+[2016-10-25 11:32] [ALPM] installed libnettle (3.3-1)
+[2016-10-25 11:32] [ALPM] installed coreutils (8.25-1)
+[2016-10-25 11:32] [ALPM] installed ncurses (6.0.20161001-1)
+[2016-10-25 11:32] [ALPM] installed libreadline (6.3.008-7)
+[2016-10-25 11:32] [ALPM] installed zlib (1.2.8-3)
+[2016-10-25 11:32] [ALPM] installed libxml2 (2.9.2-2)
+[2016-10-25 11:32] [ALPM] installed bsdcpio (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed bsdtar (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed bzip2 (1.0.6-2)
+[2016-10-25 11:32] [ALPM] installed libcatgets (1.1-2)
+[2016-10-25 11:32] [ALPM] installed catgets (1.1-2)
+[2016-10-25 11:32] [ALPM] installed libcrypt (1.3-1)
+[2016-10-25 11:32] [ALPM] installed crypt (1.3-1)
+[2016-10-25 11:32] [ALPM] installed libopenssl (1.0.2.j-1)
+[2016-10-25 11:32] [ALPM] installed openssl (1.0.2.j-1)
+[2016-10-25 11:32] [ALPM] installed findutils (4.6.0-1)
+[2016-10-25 11:32] [ALPM] installed sed (4.2.2-2)
+[2016-10-25 11:32] [ALPM] installed libffi (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed libpcre (8.38-1)
+[2016-10-25 11:32] [ALPM] installed less (481-1)
+[2016-10-25 11:32] [ALPM] installed gzip (1.8-1)
+[2016-10-25 11:32] [ALPM] installed info (6.1-1)
+[2016-10-25 11:32] [ALPM] installed libtasn1 (4.9-1)
+[2016-10-25 11:32] [ALPM] installed libp11-kit (0.23.2-1)
+[2016-10-25 11:32] [ALPM] installed p11-kit (0.23.2-1)
+[2016-10-25 11:32] [ALPM] installed ca-certificates (20150426-1)
+[2016-10-25 11:32] [ALPM] installed libdb (5.3.28-2)
+[2016-10-25 11:32] [ALPM] installed libedit (3.1-20150325)
+[2016-10-25 11:32] [ALPM] installed icu (56.1-1)
+[2016-10-25 11:32] [ALPM] installed libsqlite (3.10.0.0-1)
+[2016-10-25 11:32] [ALPM] installed heimdal-libs (1.5.3-9)
+[2016-10-25 11:32] [ALPM] installed libidn (1.33-1)
+[2016-10-25 11:32] [ALPM] installed libexpat (2.2.0-1)
+[2016-10-25 11:32] [ALPM] installed libmetalink (0.1.2-2)
+[2016-10-25 11:32] [ALPM] installed libssh2 (1.7.0-1)
+[2016-10-25 11:32] [ALPM] installed libcurl (7.50.3-1)
+[2016-10-25 11:32] [ALPM] installed curl (7.50.3-1)
+[2016-10-25 11:32] [ALPM] installed filesystem (2016.07-2)
+[2016-10-25 11:32] [ALPM] installed grep (2.26-1)
+[2016-10-25 11:32] [ALPM] installed dash (0.5.9.1-1)
+[2016-10-25 11:32] [ALPM] installed file (5.28-2)
+[2016-10-25 11:32] [ALPM] installed m4 (1.4.17-4)
+[2016-10-25 11:32] [ALPM] installed flex (2.6.1-1)
+[2016-10-25 11:32] [ALPM] installed mpfr (3.1.4-1)
+[2016-10-25 11:32] [ALPM] installed gawk (4.1.4-1)
+[2016-10-25 11:32] [ALPM] installed tftp-hpa (5.2-1)
+[2016-10-25 11:32] [ALPM] installed inetutils (1.9.2-1)
+[2016-10-25 11:32] [ALPM] installed lndir (1.0.3-1)
+[2016-10-25 11:32] [ALPM] installed mintty (1~2.6.2-1)
+[2016-10-25 11:32] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2016-10-25 11:32] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2016-10-25 11:32] [ALPM] installed gnupg (1.4.20-1)
+[2016-10-25 11:32] [ALPM-SCRIPTLET] rm: ошибка получения атрибутов '/': No such file or directory
+[2016-10-25 11:32] [ALPM-SCRIPTLET] /tmp/alpm_gpOcJc/.INSTALL: line 11: pacman-key: команда не найдена
+[2016-10-25 11:32] [ALPM-SCRIPTLET] /tmp/alpm_gpOcJc/.INSTALL: line 12: pacman-key: команда не найдена
+[2016-10-25 11:32] [ALPM] installed pacman-mirrors (20160112-1)
+[2016-10-25 11:32] [ALPM] installed which (2.21-2)
+[2016-10-25 11:32] [ALPM] installed xz (5.2.2-1)
+[2016-10-25 11:32] [ALPM] installed pacman (5.0.1-1)
+[2016-10-25 11:32] [ALPM] installed libarchive (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed libpcre16 (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcre32 (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcrecpp (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcreposix (8.38-1)
+[2016-10-25 11:32] [ALPM] installed pcre (8.38-1)
+[2016-10-25 11:32] [ALPM] installed pkgfile (15-1)
+[2016-10-25 11:32] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2016-10-25 11:32] [ALPM] installed libgpg-error (1.23-1)
+[2016-10-25 11:32] [ALPM] installed libassuan (2.4.2-1)
+[2016-10-25 11:32] [ALPM] installed libgpgme (1.6.0-1)
+[2016-10-25 11:32] [ALPM] installed libutil-linux (2.26.2-1)
+[2016-10-25 11:32] [ALPM] installed wget (1.18-1)
+[2016-10-25 11:32] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2016-10-25 11:32] [ALPM] installed pax-git (20140703.2.1.g469552a-1)
+[2016-10-25 11:32] [ALPM] installed rebase (4.4.2-1)
+[2016-10-25 11:32] [ALPM] installed time (1.7-1)
+[2016-10-25 11:32] [ALPM] installed ttyrec (1.0.8-1)
+[2016-10-25 11:32] [ALPM] installed tzcode (2015.e-1)
+[2016-10-25 11:32] [ALPM] installed util-linux (2.26.2-1)
+[2016-10-25 11:32] [ALPM] transaction completed
+[2018-03-18 15:44] [PACMAN] Running 'pacman -Syu'
+[2018-03-18 15:44] [PACMAN] synchronizing package lists
+[2018-03-18 15:44] [PACMAN] starting core system upgrade
+[2018-03-18 15:45] [ALPM] transaction started
+[2018-03-18 15:45] [ALPM] removed catgets (1.1-2)
+[2018-03-18 15:45] [ALPM] removed libcatgets (1.1-2)
+[2018-03-18 15:45] [ALPM] upgraded msys2-runtime (2.6.0-1 -> 2.10.0-2)
+[2018-03-18 15:45] [ALPM] upgraded bash (4.3.046-1 -> 4.4.019-2)
+[2018-03-18 15:45] [ALPM] upgraded filesystem (2016.07-2 -> 2018.02-2)
+[2018-03-18 15:46] [ALPM] upgraded mintty (1~2.6.2-1 -> 1~2.8.4-1)
+[2018-03-18 15:46] [ALPM] upgraded pacman (5.0.1-1 -> 5.0.1-5)
+[2018-03-18 15:46] [ALPM] transaction completed
+[2018-03-18 15:50] [PACMAN] Running 'pacman -Su'
+[2018-03-18 15:50] [PACMAN] starting core system upgrade
+[2018-03-18 15:50] [PACMAN] starting full system upgrade
+[2018-03-18 15:57] [ALPM] transaction started
+[2018-03-18 15:57] [ALPM] upgraded bash-completion (2.3-1 -> 2.5-1)
+[2018-03-18 15:57] [ALPM] upgraded gcc-libs (5.3.0-3 -> 6.4.0-3)
+[2018-03-18 15:57] [ALPM] upgraded libintl (0.19.7-3 -> 0.19.8.1-1)
+[2018-03-18 15:57] [ALPM] upgraded libgettextpo (0.19.7-3 -> 0.19.8.1-1)
+[2018-03-18 15:57] [ALPM] upgraded libasprintf (0.19.7-3 -> 0.19.8.1-1)
+[2018-03-18 15:57] [ALPM] upgraded gettext (0.19.7-3 -> 0.19.8.1-1)
+[2018-03-18 15:57] [ALPM] upgraded liblzma (5.2.2-1 -> 5.2.3-1)
+[2018-03-18 15:57] [ALPM] upgraded liblzo2 (2.09-1 -> 2.10-1)
+[2018-03-18 15:57] [ALPM] upgraded gmp (6.1.0-2 -> 6.1.2-1)
+[2018-03-18 15:57] [ALPM] upgraded coreutils (8.25-1 -> 8.26-2)
+[2018-03-18 15:57] [ALPM] upgraded icu (56.1-1 -> 60.2-1)
+[2018-03-18 15:59] [ALPM] upgraded ncurses (6.0.20161001-1 -> 6.1.20180217-1)
+[2018-03-18 15:59] [ALPM] upgraded libreadline (6.3.008-7 -> 7.0.003-2)
+[2018-03-18 15:59] [ALPM] upgraded zlib (1.2.8-3 -> 1.2.11-1)
+[2018-03-18 15:59] [ALPM] upgraded libxml2 (2.9.2-2 -> 2.9.7-2)
+[2018-03-18 15:59] [ALPM] upgraded bsdcpio (3.2.1-1 -> 3.3.2-1)
+[2018-03-18 15:59] [ALPM] upgraded bsdtar (3.2.1-1 -> 3.3.2-1)
+[2018-03-18 15:59] [ALPM] upgraded libopenssl (1.0.2.j-1 -> 1.0.2.m-1)
+[2018-03-18 15:59] [ALPM] upgraded openssl (1.0.2.j-1 -> 1.0.2.m-1)
+[2018-03-18 15:59] [ALPM] upgraded sed (4.2.2-2 -> 4.4-2)
+[2018-03-18 15:59] [ALPM] upgraded libpcre (8.38-1 -> 8.40-2)
+[2018-03-18 15:59] [ALPM] upgraded less (481-1 -> 529-1)
+[2018-03-18 15:59] [ALPM] upgraded gzip (1.8-1 -> 1.9-1)
+[2018-03-18 15:59] [ALPM] upgraded info (6.1-1 -> 6.3-1)
+[2018-03-18 15:59] [ALPM] upgraded libtasn1 (4.9-1 -> 4.13-1)
+[2018-03-18 15:59] [ALPM] upgraded libgpg-error (1.23-1 -> 1.27-1)
+[2018-03-18 15:59] [ALPM] installed libgcrypt (1.8.1-1)
+[2018-03-18 15:59] [ALPM] installed libxslt (1.1.32-1)
+[2018-03-18 15:59] [ALPM] installed glib2 (2.48.2-1)
+[2018-03-18 15:59] [ALPM] upgraded libp11-kit (0.23.2-1 -> 0.23.9-1)
+[2018-03-18 15:59] [ALPM] upgraded p11-kit (0.23.2-1 -> 0.23.9-1)
+[2018-03-18 15:59] [ALPM] upgraded ca-certificates (20150426-1 -> 20170717-2)
+[2018-03-18 15:59] [ALPM] upgraded libcrypt (1.3-1 -> 2.1-1)
+[2018-03-18 15:59] [ALPM] installed libunistring (0.9.7-2)
+[2018-03-18 15:59] [ALPM] installed libidn2 (2.0.4-2)
+[2018-03-18 15:59] [ALPM] upgraded libexpat (2.2.0-1 -> 2.2.5-1)
+[2018-03-18 15:59] [ALPM] upgraded libmetalink (0.1.2-2 -> 0.1.3-2)
+[2018-03-18 15:59] [ALPM] installed libnghttp2 (1.30.0-1)
+[2018-03-18 15:59] [ALPM] installed libpsl (0.19.1-1)
+[2018-03-18 15:59] [ALPM] upgraded libssh2 (1.7.0-1 -> 1.8.0-1)
+[2018-03-18 15:59] [ALPM] upgraded libedit (3.1-20150325 -> 3.1-20170329)
+[2018-03-18 15:59] [ALPM] upgraded libsqlite (3.10.0.0-1 -> 3.19.3.0-2)
+[2018-03-18 15:59] [ALPM] upgraded libcurl (7.50.3-1 -> 7.58.0-1)
+[2018-03-18 15:59] [ALPM] upgraded curl (7.50.3-1 -> 7.58.0-1)
+[2018-03-18 15:59] [ALPM] upgraded file (5.28-2 -> 5.32-1)
+[2018-03-18 15:59] [ALPM] upgraded m4 (1.4.17-4 -> 1.4.18-1)
+[2018-03-18 15:59] [ALPM] upgraded flex (2.6.1-1 -> 2.6.4-1)
+[2018-03-18 15:59] [ALPM] upgraded mpfr (3.1.4-1 -> 4.0.1-1)
+[2018-03-18 16:00] [ALPM] upgraded gawk (4.1.4-1 -> 4.2.0-1)
+[2018-03-18 16:00] [ALPM] upgraded gnupg (1.4.20-1 -> 1.4.22-3)
+[2018-03-18 16:00] [ALPM] upgraded grep (2.26-1 -> 3.0-1)
+[2018-03-18 16:00] [ALPM] upgraded tftp-hpa (5.2-1 -> 5.2-2)
+[2018-03-18 16:00] [ALPM] upgraded inetutils (1.9.2-1 -> 1.9.4-1)
+[2018-03-18 16:00] [ALPM] upgraded libarchive (3.2.1-1 -> 3.3.2-1)
+[2018-03-18 16:00] [ALPM] upgraded libassuan (2.4.2-1 -> 2.4.3-1)
+[2018-03-18 16:00] [ALPM] upgraded libpcre16 (8.38-1 -> 8.40-2)
+[2018-03-18 16:00] [ALPM] upgraded libpcre32 (8.38-1 -> 8.40-2)
+[2018-03-18 16:00] [ALPM] upgraded libpcrecpp (8.38-1 -> 8.40-2)
+[2018-03-18 16:00] [ALPM] upgraded libpcreposix (8.38-1 -> 8.40-2)
+[2018-03-18 16:00] [ALPM] upgraded pax-git (20140703.2.1.g469552a-1 -> 20161104.2-1)
+[2018-03-18 16:00] [ALPM] upgraded pcre (8.38-1 -> 8.40-2)
+[2018-03-18 16:00] [ALPM] upgraded xz (5.2.2-1 -> 5.2.3-1)
+[2018-03-18 16:00] [ALPM] upgraded pkgfile (15-1 -> 17-1)
+[2018-03-18 16:00] [ALPM] upgraded tzcode (2015.e-1 -> 2018.c-1)
+[2018-03-18 16:00] [ALPM] upgraded wget (1.18-1 -> 1.19.4-1)
+[2018-03-18 16:00] [ALPM] transaction completed
+[2018-03-18 16:02] [PACMAN] Running 'pacman -Syuu'
+[2018-03-18 16:02] [PACMAN] synchronizing package lists
+[2018-03-18 16:02] [PACMAN] starting core system upgrade
+[2018-03-18 16:02] [PACMAN] starting full system upgrade
+[2018-03-18 16:02] [PACMAN] Running 'pacman -Suu'
+[2018-03-18 16:02] [PACMAN] starting core system upgrade
+[2018-03-18 16:02] [PACMAN] starting full system upgrade
+[2018-03-18 16:03] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gtk3'
+[2018-03-18 16:08] [ALPM] transaction started
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-gmp (6.1.2-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-mpfr (4.0.1-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-mpc (1.1.0-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (6.0.0.5098.2464b7e6-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-gcc-libs (7.3.0-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-hicolor-icon-theme (0.15-2)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-expat (2.2.5-1)
+[2018-03-18 16:08] [ALPM] installed mingw-w64-x86_64-libiconv (1.15-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-gettext (0.19.8.1-2)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-bzip2 (1.0.6-6)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-wineditline (2.201-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-pcre (8.41-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-libffi (3.2.1-4)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-libtre-git (r128.6fb7206-2)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-libsystre (1.0.1-4)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-ncurses (6.1.20180127-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-libtasn1 (4.13-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-p11-kit (0.23.9-1)
+[2018-03-18 16:09] [ALPM] installed mingw-w64-x86_64-ca-certificates (20170211-2)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-openssl (1.0.2.n-1)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-termcap (1.3.1-3)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-readline (7.0.003-1)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-tcl (8.6.8-1)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-tk (8.6.8-1)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-xz (5.2.3-1)
+[2018-03-18 16:10] [ALPM] installed mingw-w64-x86_64-sqlite3 (3.21.0-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-python3 (3.6.4-2)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-glib2 (2.54.3-1)
+[2018-03-18 16:12] [ALPM-SCRIPTLET] No schema files found: doing nothing.
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-freeglut (3.0.0-4)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-libjpeg-turbo (1.5.3-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-jasper (2.0.14-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-libpng (1.6.34-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-libtiff (4.0.9-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-gdk-pixbuf2 (2.36.11-2)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-graphite2 (1.3.11-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-harfbuzz (1.7.5-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-freetype (2.9-1)
+[2018-03-18 16:12] [ALPM] installed mingw-w64-x86_64-fontconfig (2.13.0-1)
+[2018-03-18 16:12] [ALPM-SCRIPTLET] 
+[2018-03-18 16:12] [ALPM-SCRIPTLET]   Fontconfig configuration is done via /mingw64/etc/fonts/conf.avail and conf.d.
+[2018-03-18 16:12] [ALPM-SCRIPTLET]   Read /mingw64/etc/fonts/conf.d/README for more information.
+[2018-03-18 16:12] [ALPM-SCRIPTLET] 
+[2018-03-18 16:13] [ALPM-SCRIPTLET] updating font cache... done.
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-lzo2 (2.10-1)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-pixman (0.34.0-3)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-cairo (1.15.10-1)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-pango (1.40.11-1)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-libxml2 (2.9.7-1)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-libcroco (0.6.12-1)
+[2018-03-18 16:13] [ALPM] installed mingw-w64-x86_64-librsvg (2.40.20-1)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-adwaita-icon-theme (3.26.1-1)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-atk (2.26.1-1)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-json-glib (1.4.2-2)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-libepoxy (1.5.0-1)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-shared-mime-info (1.9-1)
+[2018-03-18 16:14] [ALPM] installed mingw-w64-x86_64-gtk3 (3.22.28-1)
+[2018-03-18 16:14] [ALPM] transaction completed
+[2018-03-18 16:16] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python3-gobject'
+[2018-03-18 16:17] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python3-gobject'
+[2018-03-18 16:18] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python3-gobject'
+[2018-03-18 16:18] [ALPM] transaction started
+[2018-03-18 16:18] [ALPM] installed mingw-w64-x86_64-python3-cairo (1.16.1-1)
+[2018-03-18 16:18] [ALPM] installed mingw-w64-x86_64-gobject-introspection-runtime (1.54.1-4)
+[2018-03-18 16:18] [ALPM] installed mingw-w64-x86_64-pygobject-devel (3.26.1-1)
+[2018-03-18 16:18] [ALPM] installed mingw-w64-x86_64-python3-gobject (3.26.1-1)
+[2018-03-18 16:18] [ALPM] transaction completed
+[2018-03-18 16:18] [PACMAN] Running 'pacman -S mingw-w64-x86_64-devhelp mingw-w64-x86_64-glade'
+[2018-03-18 16:22] [ALPM] transaction started
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-gsettings-desktop-schemas (3.24.1-1)
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.locale� has path �/system/locale/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy� has path �/system/proxy/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.http� has path �/system/proxy/http/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.https� has path �/system/proxy/https/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.ftp� has path �/system/proxy/ftp/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.socks� has path �/system/proxy/socks/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-angleproject-git (2.1.r6846-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-aspell (0.60.7.rc1-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-hunspell (1.6.2-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-enchant (1.6.1-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libogg (1.3.3-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libvorbis (1.3.5-2)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libtheora (1.1.1-4)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libvorbisidec-svn (r19643-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-opus (1.2.1-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-gsl (2.4-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-gstreamer (1.12.4-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-orc (0.4.28-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-gst-plugins-base (1.12.4-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-gtk2 (2.24.32-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libgpg-error (1.27-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libgcrypt (1.8.2-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libxslt (1.1.32-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-dbus (1.10.16-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-dbus-glib (0.108-1)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-geoclue (0.12.99-3)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-icu (58.2-3)
+[2018-03-18 16:22] [ALPM] installed mingw-w64-x86_64-libidn (1.33-2)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-libunistring (0.9.8-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-libidn2 (2.0.4-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-nettle (3.4-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-gnutls (3.6.1-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-glib-networking (2.54.1-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-libsoup (2.60.3-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-giflib (5.1.4-2)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-libwebp (0.6.1-1)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-webkitgtk3 (2.4.11-4)
+[2018-03-18 16:23] [ALPM] installed mingw-w64-x86_64-png2ico (2002.12.08-2)
+[2018-03-18 16:24] [ALPM] installed mingw-w64-x86_64-python2 (2.7.14-5)
+[2018-03-18 16:24] [ALPM] installed mingw-w64-x86_64-devhelp (3.8.2-2)
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.freedesktop.Geoclue� has path �/apps/geoclue/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.locale� has path �/system/locale/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy� has path �/system/proxy/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.http� has path �/system/proxy/http/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.https� has path �/system/proxy/https/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.ftp� has path �/system/proxy/ftp/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM-SCRIPTLET] Warning: Schema �org.gnome.system.proxy.socks� has path �/system/proxy/socks/�.  Paths starting with �/apps/�, �/desktop/� or �/system/� are deprecated.
+[2018-03-18 16:24] [ALPM] installed mingw-w64-x86_64-glade (3.21.0-1)
+[2018-03-18 16:24] [ALPM] transaction completed
+[2018-03-18 16:33] [PACMAN] Running 'pacman -S katye'
+[2018-03-18 16:33] [PACMAN] Running 'pacman -S kate'
+[2018-03-18 16:51] [PACMAN] Running 'pacman -S tar'
+[2018-03-18 16:51] [ALPM] transaction started
+[2018-03-18 16:51] [ALPM] installed tar (1.30-1)
+[2018-03-18 16:51] [ALPM] transaction completed
+[2018-05-17 00:41] [PACMAN] Running 'pacman -S materia-gtk-theme'
+[2020-02-10 16:38] [PACMAN] Running 'pacman -S git'
+[2020-02-10 16:42] [ALPM] transaction started
+[2020-02-10 16:42] [ALPM] installed expat (2.2.5-1)
+[2020-02-10 16:45] [ALPM] installed vim (8.0.1476-1)
+[2020-02-10 16:46] [ALPM] installed heimdal (1.5.3-9)
+[2020-02-10 16:46] [ALPM] installed openssh (7.6p1-2)
+[2020-02-10 16:46] [ALPM] installed db (5.3.28-2)
+[2020-02-10 16:46] [ALPM] installed libgdbm (1.11-3)
+[2020-02-10 16:46] [ALPM] installed gdbm (1.11-3)
+[2020-02-10 16:51] [ALPM] installed perl (5.24.1-4)
+[2020-02-10 16:51] [ALPM] installed perl-Error (0.17025-1)
+[2020-02-10 16:51] [ALPM] installed perl-Authen-SASL (2.16-2)
+[2020-02-10 16:51] [ALPM] installed perl-Encode-Locale (1.05-1)
+[2020-02-10 16:51] [ALPM] installed perl-HTTP-Date (6.02-2)
+[2020-02-10 16:51] [ALPM] installed perl-File-Listing (6.04-2)
+[2020-02-10 16:51] [ALPM] installed perl-HTML-Tagset (3.20-2)
+[2020-02-10 16:51] [ALPM] installed perl-HTML-Parser (3.72-2)
+[2020-02-10 16:51] [ALPM] installed perl-LWP-MediaTypes (6.02-2)
+[2020-02-10 16:51] [ALPM] installed perl-URI (1.73-1)
+[2020-02-10 16:51] [ALPM] installed perl-HTTP-Message (6.14-1)
+[2020-02-10 16:51] [ALPM] installed perl-HTTP-Cookies (6.04-1)
+[2020-02-10 16:51] [ALPM] installed perl-HTTP-Daemon (6.01-2)
+[2020-02-10 16:51] [ALPM] installed perl-HTTP-Negotiate (6.01-2)
+[2020-02-10 16:51] [ALPM] installed perl-Net-HTTP (6.17-1)
+[2020-02-10 16:51] [ALPM] installed perl-WWW-RobotRules (6.02-2)
+[2020-02-10 16:51] [ALPM] installed perl-libwww (6.31-1)
+[2020-02-10 16:51] [ALPM] installed perl-TimeDate (2.30-2)
+[2020-02-10 16:51] [ALPM] installed perl-MailTools (2.20-1)
+[2020-02-10 16:51] [ALPM] installed perl-IO-stringy (2.111-1)
+[2020-02-10 16:51] [ALPM] installed perl-Convert-BinHex (1.125-1)
+[2020-02-10 16:51] [ALPM-SCRIPTLET] module test... fail.
+[2020-02-10 16:51] [ALPM] installed perl-MIME-tools (5.509-1)
+[2020-02-10 16:51] [ALPM] installed perl-Net-SSLeay (1.84-1)
+[2020-02-10 16:51] [ALPM] installed perl-IO-Socket-SSL (2.054-1)
+[2020-02-10 16:51] [ALPM] installed perl-Net-SMTP-SSL (1.04-1)
+[2020-02-10 16:51] [ALPM] installed perl-TermReadKey (2.37-2)
+[2020-02-10 16:53] [ALPM] installed git (2.16.2-1)
+[2020-02-10 16:53] [ALPM] transaction completed
+[2020-02-14 05:46] [PACMAN] Running 'pacman -S pip3'
+[2020-02-14 05:46] [PACMAN] Running 'pacman -Sq'
+[2020-02-14 05:48] [PACMAN] Running 'pacman -S python3-pip'
+[2020-02-14 05:49] [ALPM] transaction started
+[2020-02-14 05:49] [ALPM] installed mpdecimal (2.4.2-2)
+[2020-02-14 05:57] [ALPM] installed python (3.6.2-1)
+[2020-02-14 05:57] [ALPM] installed python3-pyparsing (2.2.0-2)
+[2020-02-14 05:57] [ALPM] installed python3-six (1.10.0-5)
+[2020-02-14 05:57] [ALPM] installed python3-packaging (16.8-3)
+[2020-02-14 05:57] [ALPM] installed python3-appdirs (1.4.3-2)
+[2020-02-14 05:58] [ALPM] installed python3-setuptools (36.4.0-1)
+[2020-02-14 05:59] [ALPM] installed python3-pip (9.0.1-3)
+[2020-02-14 05:59] [ALPM] transaction completed
+[2020-02-14 11:58] [PACMAN] Running 'pacman -S git python3-pip'
+[2020-02-14 11:58] [ALPM] transaction started
+[2020-02-14 12:02] [ALPM] reinstalled git (2.16.2-1)
+[2020-02-14 12:02] [ALPM] reinstalled python3-pip (9.0.1-3)
+[2020-02-14 12:02] [ALPM] transaction completed
+[2020-02-16 06:21] [PACMAN] Running 'pacman -Syu'
+[2020-02-16 06:21] [PACMAN] synchronizing package lists
+[2020-02-16 06:21] [PACMAN] starting core system upgrade
+[2020-02-16 06:23] [ALPM] transaction started
+[2020-02-16 06:23] [ALPM] upgraded msys2-runtime (2.10.0-2 -> 3.0.7-6)
+[2020-02-16 06:23] [ALPM] upgraded bash (4.4.019-2 -> 4.4.023-1)
+[2020-02-16 06:23] [ALPM] upgraded filesystem (2018.02-2 -> 2020.02-1)
+[2020-02-16 06:23] [ALPM] upgraded mintty (1~2.8.4-1 -> 1~3.1.0-1)
+[2020-02-16 06:23] [ALPM] upgraded pacman-mirrors (20160112-1 -> 20180604-2)
+[2020-02-16 06:23] [ALPM] installed libzstd (1.4.4-2)
+[2020-02-16 06:23] [ALPM] installed zstd (1.4.4-2)
+[2020-02-16 06:23] [ALPM] upgraded pacman (5.0.1-5 -> 5.2.1-6)
+[2020-02-16 06:23] [ALPM] transaction completed
+[2020-02-16T06:28:31+0800] [PACMAN] Running 'pacman -Syu'
+[2020-02-16T06:28:31+0800] [PACMAN] synchronizing package lists
+[2020-02-16T06:28:34+0800] [PACMAN] starting core system upgrade
+[2020-02-16T06:28:34+0800] [PACMAN] starting full system upgrade
+[2020-02-16T07:24:11+0800] [ALPM] transaction started
+[2020-02-16T07:24:12+0800] [ALPM] removed mingw-w64-x86_64-python3-gobject (3.26.1-1)
+[2020-02-16T07:24:12+0800] [ALPM] removed mingw-w64-x86_64-python3-cairo (1.16.1-1)
+[2020-02-16T07:25:16+0800] [ALPM] removed mingw-w64-x86_64-python3 (3.6.4-2)
+[2020-02-16T07:25:35+0800] [ALPM] upgraded bash-completion (2.5-1 -> 2.10-1)
+[2020-02-16T07:25:36+0800] [ALPM] upgraded gcc-libs (6.4.0-3 -> 9.1.0-2)
+[2020-02-16T07:25:48+0800] [ALPM] upgraded libbz2 (1.0.6-2 -> 1.0.8-1)
+[2020-02-16T07:25:51+0800] [ALPM] upgraded libiconv (1.14-2 -> 1.16-1)
+[2020-02-16T07:25:51+0800] [ALPM] upgraded libexpat (2.2.5-1 -> 2.2.9-1)
+[2020-02-16T07:25:51+0800] [ALPM] upgraded liblzma (5.2.3-1 -> 5.2.4-1)
+[2020-02-16T07:25:51+0800] [ALPM] installed liblz4 (1.9.2-1)
+[2020-02-16T07:25:52+0800] [ALPM] upgraded liblzo2 (2.10-1 -> 2.10-2)
+[2020-02-16T07:25:52+0800] [ALPM] installed libhogweed (3.5.1-1)
+[2020-02-16T07:25:52+0800] [ALPM] upgraded libnettle (3.3-1 -> 3.5.1-1)
+[2020-02-16T07:25:59+0800] [ALPM] upgraded coreutils (8.26-2 -> 8.31-1)
+[2020-02-16T07:26:04+0800] [ALPM] upgraded icu (60.2-1 -> 65.1-1)
+[2020-02-16T07:28:03+0800] [ALPM] upgraded ncurses (6.1.20180217-1 -> 6.1.20191228-1)
+[2020-02-16T07:28:04+0800] [ALPM] upgraded libreadline (7.0.003-2 -> 8.0.001-1)
+[2020-02-16T07:28:09+0800] [ALPM] upgraded libxml2 (2.9.7-2 -> 2.9.10-2)
+[2020-02-16T07:28:09+0800] [ALPM] upgraded bsdcpio (3.3.2-1 -> 3.4.1-1)
+[2020-02-16T07:28:09+0800] [ALPM] upgraded bsdtar (3.3.2-1 -> 3.4.1-1)
+[2020-02-16T07:28:10+0800] [ALPM] upgraded bzip2 (1.0.6-2 -> 1.0.8-1)
+[2020-02-16T07:28:10+0800] [ALPM] upgraded libopenssl (1.0.2.m-1 -> 1.1.1.d-1)
+[2020-02-16T07:30:16+0800] [ALPM] upgraded openssl (1.0.2.m-1 -> 1.1.1.d-1)
+[2020-02-16T07:30:19+0800] [ALPM] upgraded findutils (4.6.0-1 -> 4.7.0-1)
+[2020-02-16T07:30:24+0800] [ALPM] upgraded sed (4.4-2 -> 4.8-1)
+[2020-02-16T07:30:27+0800] [ALPM] upgraded libffi (3.2.1-1 -> 3.2.1-3)
+[2020-02-16T07:30:29+0800] [ALPM] upgraded libpcre (8.40-2 -> 8.43-2)
+[2020-02-16T07:30:29+0800] [ALPM] upgraded less (529-1 -> 551-1)
+[2020-02-16T07:30:30+0800] [ALPM] upgraded gzip (1.9-1 -> 1.10-1)
+[2020-02-16T07:30:33+0800] [ALPM] upgraded libcrypt (2.1-1 -> 2.1-2)
+[2020-02-16T07:30:34+0800] [ALPM] upgraded info (6.3-1 -> 6.6-1)
+[2020-02-16T07:30:38+0800] [ALPM] upgraded libtasn1 (4.13-1 -> 4.16.0-1)
+[2020-02-16T07:30:42+0800] [ALPM] upgraded libgpg-error (1.27-1 -> 1.36-1)
+[2020-02-16T07:30:42+0800] [ALPM] upgraded libgcrypt (1.8.1-1 -> 1.8.5-1)
+[2020-02-16T07:30:44+0800] [ALPM] upgraded libxslt (1.1.32-1 -> 1.1.34-1)
+[2020-02-16T07:30:50+0800] [ALPM] upgraded glib2 (2.48.2-1 -> 2.54.3-1)
+[2020-02-16T07:30:50+0800] [ALPM] upgraded libp11-kit (0.23.9-1 -> 0.23.20-1)
+[2020-02-16T07:30:50+0800] [ALPM] upgraded p11-kit (0.23.9-1 -> 0.23.20-1)
+[2020-02-16T07:30:51+0800] [ALPM] upgraded ca-certificates (20170717-2 -> 20190110-1)
+[2020-02-16T07:31:14+0800] [ALPM] installed brotli (1.0.7-2)
+[2020-02-16T07:31:15+0800] [ALPM] upgraded libedit (3.1-20170329 -> 20191231_3.1-1)
+[2020-02-16T07:31:15+0800] [ALPM] upgraded libsqlite (3.19.3.0-2 -> 3.30.0-1)
+[2020-02-16T07:31:16+0800] [ALPM] upgraded heimdal-libs (1.5.3-9 -> 7.7.0-1)
+[2020-02-16T07:31:17+0800] [ALPM] upgraded libunistring (0.9.7-2 -> 0.9.10-1)
+[2020-02-16T07:31:20+0800] [ALPM] upgraded libidn2 (2.0.4-2 -> 2.3.0-1)
+[2020-02-16T07:31:23+0800] [ALPM] upgraded libnghttp2 (1.30.0-1 -> 1.40.0-1)
+[2020-02-16T07:31:23+0800] [ALPM] upgraded libpsl (0.19.1-1 -> 0.21.0-1)
+[2020-02-16T07:31:26+0800] [ALPM] upgraded libssh2 (1.8.0-1 -> 1.9.0-1)
+[2020-02-16T07:31:26+0800] [ALPM] upgraded libcurl (7.58.0-1 -> 7.68.0-1)
+[2020-02-16T07:31:36+0800] [ALPM] upgraded curl (7.58.0-1 -> 7.68.0-1)
+[2020-02-16T07:31:39+0800] [ALPM] upgraded grep (3.0-1 -> 3.0-2)
+[2020-02-16T07:31:42+0800] [ALPM] upgraded dash (0.5.9.1-1 -> 0.5.10.2-1)
+[2020-02-16T07:31:47+0800] [ALPM] upgraded expat (2.2.5-1 -> 2.2.9-1)
+[2020-02-16T07:31:49+0800] [ALPM] upgraded file (5.32-1 -> 5.38-1)
+[2020-02-16T07:31:50+0800] [ALPM] upgraded mpfr (4.0.1-1 -> 4.0.2-1)
+[2020-02-16T07:32:04+0800] [ALPM] upgraded gawk (4.2.0-1 -> 5.0.1-1)
+[2020-02-16T07:32:07+0800] [ALPM] upgraded libgdbm (1.11-3 -> 1.18.1-2)
+[2020-02-16T07:32:08+0800] [ALPM] upgraded gdbm (1.11-3 -> 1.18.1-2)
+[2020-02-16T07:32:10+0800] [ALPM] installed libpcre2_8 (10.34-1)
+[2020-02-16T07:32:52+0800] [ALPM] upgraded vim (8.0.1476-1 -> 8.2.0121-1)
+[2020-02-16T07:33:02+0800] [ALPM] upgraded heimdal (1.5.3-9 -> 7.7.0-1)
+[2020-02-16T07:33:04+0800] [ALPM] warning: /etc/ssh/sshd_config installed as /etc/ssh/sshd_config.pacnew
+[2020-02-16T07:33:04+0800] [ALPM] upgraded openssh (7.6p1-2 -> 8.1p1-1)
+[2020-02-16T07:33:56+0800] [ALPM] upgraded perl (5.24.1-4 -> 5.30.1-1)
+[2020-02-16T07:33:56+0800] [ALPM] upgraded perl-Error (0.17025-1 -> 0.17029-1)
+[2020-02-16T07:33:57+0800] [ALPM] upgraded perl-HTML-Parser (3.72-2 -> 3.72-4)
+[2020-02-16T07:33:57+0800] [ALPM] upgraded perl-HTTP-Date (6.02-2 -> 6.05-1)
+[2020-02-16T07:33:58+0800] [ALPM] upgraded perl-URI (1.73-1 -> 1.76-1)
+[2020-02-16T07:34:00+0800] [ALPM] upgraded perl-HTTP-Message (6.14-1 -> 6.18-1)
+[2020-02-16T07:34:00+0800] [ALPM] upgraded perl-HTTP-Cookies (6.04-1 -> 6.08-1)
+[2020-02-16T07:34:00+0800] [ALPM] upgraded perl-Net-HTTP (6.17-1 -> 6.19-1)
+[2020-02-16T07:34:00+0800] [ALPM] installed perl-Try-Tiny (0.30-1)
+[2020-02-16T07:34:01+0800] [ALPM] upgraded perl-libwww (6.31-1 -> 6.43-1)
+[2020-02-16T07:34:02+0800] [ALPM] upgraded perl-TermReadKey (2.37-2 -> 2.38-1)
+[2020-02-16T07:34:02+0800] [ALPM] upgraded perl-TimeDate (2.30-2 -> 2.31-1)
+[2020-02-16T07:34:03+0800] [ALPM] upgraded perl-MailTools (2.20-1 -> 2.21-1)
+[2020-02-16T07:34:05+0800] [ALPM] upgraded perl-Net-SSLeay (1.84-1 -> 1.88-1)
+[2020-02-16T07:34:06+0800] [ALPM] upgraded perl-IO-Socket-SSL (2.054-1 -> 2.066-1)
+[2020-02-16T07:34:27+0800] [ALPM] upgraded git (2.16.2-1 -> 2.25.0-1)
+[2020-02-16T07:34:28+0800] [ALPM] upgraded libassuan (2.4.3-1 -> 2.5.3-1)
+[2020-02-16T07:34:32+0800] [ALPM] installed libgnutls (3.6.12-1)
+[2020-02-16T07:34:36+0800] [ALPM] installed libksba (1.3.5-1)
+[2020-02-16T07:34:38+0800] [ALPM] installed libnpth (1.6-1)
+[2020-02-16T07:34:38+0800] [ALPM] installed nettle (3.5.1-1)
+[2020-02-16T07:34:41+0800] [ALPM] installed pinentry (1.1.0-2)
+[2020-02-16T07:34:45+0800] [ALPM] upgraded gnupg (1.4.22-3 -> 2.2.19-1)
+[2020-02-16T07:35:03+0800] [ALPM-SCRIPTLET] ==> Appending keys from msys2.gpg...
+[2020-02-16T07:35:05+0800] [ALPM-SCRIPTLET] gpg: starting migration from earlier GnuPG versions
+[2020-02-16T07:35:09+0800] [ALPM-SCRIPTLET] gpg: porting secret keys from '/etc/pacman.d/gnupg/secring.gpg' to gpg-agent
+[2020-02-16T07:35:09+0800] [ALPM-SCRIPTLET] gpg: migration succeeded
+[2020-02-16T07:35:10+0800] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2020-02-16T07:35:10+0800] [ALPM-SCRIPTLET]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...
+[2020-02-16T07:35:13+0800] [ALPM-SCRIPTLET]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...
+[2020-02-16T07:35:16+0800] [ALPM-SCRIPTLET]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...
+[2020-02-16T07:35:18+0800] [ALPM-SCRIPTLET]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...
+[2020-02-16T07:35:20+0800] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2020-02-16T07:35:23+0800] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2020-02-16T07:35:25+0800] [ALPM-SCRIPTLET] gpg: no need for a trustdb check
+[2020-02-16T07:35:26+0800] [ALPM] upgraded tftp-hpa (5.2-2 -> 5.2-3)
+[2020-02-16T07:35:26+0800] [ALPM] upgraded inetutils (1.9.4-1 -> 1.9.4-2)
+[2020-02-16T07:35:30+0800] [ALPM] upgraded libarchive (3.3.2-1 -> 3.4.1-1)
+[2020-02-16T07:35:30+0800] [ALPM] upgraded libgpgme (1.6.0-1 -> 1.13.1-1)
+[2020-02-16T07:35:36+0800] [ALPM] upgraded libidn (1.33-1 -> 1.35-1)
+[2020-02-16T07:35:38+0800] [ALPM] upgraded libpcre16 (8.40-2 -> 8.43-2)
+[2020-02-16T07:35:38+0800] [ALPM] upgraded libpcre32 (8.40-2 -> 8.43-2)
+[2020-02-16T07:35:39+0800] [ALPM] upgraded libpcrecpp (8.40-2 -> 8.43-2)
+[2020-02-16T07:35:39+0800] [ALPM] upgraded libpcreposix (8.40-2 -> 8.43-2)
+[2020-02-16T07:35:39+0800] [ALPM] upgraded libutil-linux (2.26.2-1 -> 2.35-1)
+[2020-02-16T07:35:39+0800] [ALPM] upgraded m4 (1.4.18-1 -> 1.4.18-2)
+[2020-02-16T07:35:45+0800] [ALPM] upgraded mingw-w64-x86_64-hicolor-icon-theme (0.15-2 -> 0.17-1)
+[2020-02-16T07:35:59+0800] [ALPM] upgraded mingw-w64-x86_64-gmp (6.1.2-1 -> 6.2.0-1)
+[2020-02-16T07:36:00+0800] [ALPM] upgraded mingw-w64-x86_64-mpfr (4.0.1-1 -> 4.0.2-2)
+[2020-02-16T07:36:00+0800] [ALPM] upgraded mingw-w64-x86_64-libwinpthread-git (6.0.0.5098.2464b7e6-1 -> 8.0.0.5574.33e5a2ac-1)
+[2020-02-16T07:36:01+0800] [ALPM] upgraded mingw-w64-x86_64-gcc-libs (7.3.0-1 -> 9.2.0-2)
+[2020-02-16T07:36:01+0800] [ALPM] upgraded mingw-w64-x86_64-expat (2.2.5-1 -> 2.2.9-1)
+[2020-02-16T07:36:02+0800] [ALPM] upgraded mingw-w64-x86_64-libiconv (1.15-1 -> 1.16-1)
+[2020-02-16T07:37:05+0800] [ALPM] upgraded mingw-w64-x86_64-gettext (0.19.8.1-2 -> 0.19.8.1-8)
+[2020-02-16T07:37:06+0800] [ALPM] upgraded mingw-w64-x86_64-bzip2 (1.0.6-6 -> 1.0.8-1)
+[2020-02-16T07:37:06+0800] [ALPM] upgraded mingw-w64-x86_64-wineditline (2.201-1 -> 2.205-3)
+[2020-02-16T07:37:08+0800] [ALPM] upgraded mingw-w64-x86_64-zlib (1.2.11-1 -> 1.2.11-7)
+[2020-02-16T07:37:13+0800] [ALPM] upgraded mingw-w64-x86_64-pcre (8.41-1 -> 8.43-1)
+[2020-02-16T07:37:14+0800] [ALPM] installed mingw-w64-x86_64-mpdecimal (2.4.2-1)
+[2020-02-16T07:39:22+0800] [ALPM] upgraded mingw-w64-x86_64-ncurses (6.1.20180127-1 -> 6.1.20190630-1)
+[2020-02-16T07:39:24+0800] [ALPM] upgraded mingw-w64-x86_64-libtasn1 (4.13-1 -> 4.15.0-1)
+[2020-02-16T07:39:26+0800] [ALPM] upgraded mingw-w64-x86_64-p11-kit (0.23.9-1 -> 0.23.19-1)
+[2020-02-16T07:39:27+0800] [ALPM] upgraded mingw-w64-x86_64-ca-certificates (20170211-2 -> 20190110-1)
+[2020-02-16T07:42:03+0800] [ALPM] upgraded mingw-w64-x86_64-openssl (1.0.2.n-1 -> 1.1.1.d-2)
+[2020-02-16T07:42:04+0800] [ALPM] upgraded mingw-w64-x86_64-termcap (1.3.1-3 -> 1.3.1-5)
+[2020-02-16T07:42:04+0800] [ALPM] upgraded mingw-w64-x86_64-readline (7.0.003-1 -> 8.0.001-2)
+[2020-02-16T07:42:52+0800] [ALPM] upgraded mingw-w64-x86_64-tcl (8.6.8-1 -> 8.6.10-1)
+[2020-02-16T07:43:09+0800] [ALPM] upgraded mingw-w64-x86_64-sqlite3 (3.21.0-1 -> 3.31.0-1)
+[2020-02-16T07:43:25+0800] [ALPM] upgraded mingw-w64-x86_64-tk (8.6.8-1 -> 8.6.10-1)
+[2020-02-16T07:43:27+0800] [ALPM] upgraded mingw-w64-x86_64-xz (5.2.3-1 -> 5.2.4-1)
+[2020-02-16T07:45:25+0800] [ALPM] installed mingw-w64-x86_64-python (3.8.1-1)
+[2020-02-16T07:45:52+0800] [ALPM] upgraded mingw-w64-x86_64-glib2 (2.54.3-1 -> 2.62.4-1)
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.freedesktop.Geoclue” has path “/apps/geoclue/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.locale” has path “/system/locale/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy” has path “/system/proxy/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.http” has path “/system/proxy/http/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.https” has path “/system/proxy/https/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.ftp” has path “/system/proxy/ftp/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.socks” has path “/system/proxy/socks/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:46:03+0800] [ALPM-SCRIPTLET] /
+[2020-02-16T07:46:05+0800] [ALPM] upgraded mingw-w64-x86_64-freeglut (3.0.0-4 -> 3.2.1-1)
+[2020-02-16T07:46:06+0800] [ALPM] upgraded mingw-w64-x86_64-libjpeg-turbo (1.5.3-1 -> 2.0.4-1)
+[2020-02-16T07:46:10+0800] [ALPM] upgraded mingw-w64-x86_64-jasper (2.0.14-1 -> 2.0.16-1)
+[2020-02-16T07:46:11+0800] [ALPM] upgraded mingw-w64-x86_64-libpng (1.6.34-1 -> 1.6.37-3)
+[2020-02-16T07:46:11+0800] [ALPM] installed mingw-w64-x86_64-zstd (1.4.4-1)
+[2020-02-16T07:46:17+0800] [ALPM] upgraded mingw-w64-x86_64-libtiff (4.0.9-1 -> 4.1.0-1)
+[2020-02-16T07:46:26+0800] [ALPM] upgraded mingw-w64-x86_64-gdk-pixbuf2 (2.36.11-2 -> 2.40.0-1)
+[2020-02-16T07:46:46+0800] [ALPM] upgraded mingw-w64-x86_64-graphite2 (1.3.11-1 -> 1.3.13-2)
+[2020-02-16T07:46:47+0800] [ALPM] upgraded mingw-w64-x86_64-harfbuzz (1.7.5-1 -> 2.6.4-3)
+[2020-02-16T07:46:49+0800] [ALPM] upgraded mingw-w64-x86_64-freetype (2.9-1 -> 2.10.1-1)
+[2020-02-16T07:46:51+0800] [ALPM] upgraded mingw-w64-x86_64-fontconfig (2.13.0-1 -> 2.13.1-1)
+[2020-02-16T07:47:22+0800] [ALPM-SCRIPTLET] updating font cache... done.
+[2020-02-16T07:47:22+0800] [ALPM] upgraded mingw-w64-x86_64-pixman (0.34.0-3 -> 0.38.4-1)
+[2020-02-16T07:47:25+0800] [ALPM] upgraded mingw-w64-x86_64-cairo (1.15.10-1 -> 1.16.0-1)
+[2020-02-16T07:47:26+0800] [ALPM] installed mingw-w64-x86_64-fribidi (1.0.8-1)
+[2020-02-16T07:47:27+0800] [ALPM] installed mingw-w64-x86_64-libdatrie (0.2.12-1)
+[2020-02-16T07:47:28+0800] [ALPM] installed mingw-w64-x86_64-libthai (0.1.28-2)
+[2020-02-16T07:47:31+0800] [ALPM] upgraded mingw-w64-x86_64-pango (1.40.11-1 -> 1.43.0-3)
+[2020-02-16T07:47:40+0800] [ALPM] upgraded mingw-w64-x86_64-libxml2 (2.9.7-1 -> 2.9.10-3)
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET] Traceback (most recent call last):
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 546, in <module>
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]     main()
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 528, in main
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]     known_paths = addusersitepackages(known_paths)
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 272, in addusersitepackages
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]     user_site = getusersitepackages()
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 241, in getusersitepackages
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]     user_base = getuserbase() # this will also set USER_BASE
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 230, in getuserbase
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET]     from sysconfig import get_config_var
+[2020-02-16T07:47:46+0800] [ALPM-SCRIPTLET] ImportError: No module named sysconfig
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET] Traceback (most recent call last):
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 546, in <module>
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]     main()
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 528, in main
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]     known_paths = addusersitepackages(known_paths)
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 272, in addusersitepackages
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]     user_site = getusersitepackages()
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 241, in getusersitepackages
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]     user_base = getuserbase() # this will also set USER_BASE
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 230, in getuserbase
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET]     from sysconfig import get_config_var
+[2020-02-16T07:47:47+0800] [ALPM-SCRIPTLET] ImportError: No module named sysconfig
+[2020-02-16T07:47:48+0800] [ALPM] upgraded mingw-w64-x86_64-libcroco (0.6.12-1 -> 0.6.13-1)
+[2020-02-16T07:47:49+0800] [ALPM] upgraded mingw-w64-x86_64-librsvg (2.40.20-1 -> 2.46.4-1)
+[2020-02-16T07:50:14+0800] [ALPM] upgraded mingw-w64-x86_64-adwaita-icon-theme (3.26.1-1 -> 3.34.3-1)
+[2020-02-16T07:50:37+0800] [ALPM] upgraded mingw-w64-x86_64-atk (2.26.1-1 -> 2.34.1-1)
+[2020-02-16T07:50:46+0800] [ALPM] upgraded mingw-w64-x86_64-dbus (1.10.16-1 -> 1.12.16-3)
+[2020-02-16T07:50:47+0800] [ALPM] upgraded mingw-w64-x86_64-dbus-glib (0.108-1 -> 0.110-1)
+[2020-02-16T07:50:48+0800] [ALPM] upgraded mingw-w64-x86_64-hunspell (1.6.2-1 -> 1.7.0-5)
+[2020-02-16T07:50:48+0800] [ALPM] installed mingw-w64-x86_64-libvoikko (4.3-1)
+[2020-02-16T07:50:49+0800] [ALPM] upgraded mingw-w64-x86_64-enchant (1.6.1-1 -> 2.2.7-1)
+[2020-02-16T07:50:50+0800] [ALPM] upgraded mingw-w64-x86_64-giflib (5.1.4-2 -> 5.2.1-1)
+[2020-02-16T07:50:54+0800] [ALPM] upgraded mingw-w64-x86_64-json-glib (1.4.2-2 -> 1.4.4-1)
+[2020-02-16T07:50:54+0800] [ALPM] upgraded mingw-w64-x86_64-libepoxy (1.5.0-1 -> 1.5.4-1)
+[2020-02-16T07:50:58+0800] [ALPM] upgraded mingw-w64-x86_64-shared-mime-info (1.9-1 -> 1.15-1)
+[2020-02-16T07:51:28+0800] [ALPM] upgraded mingw-w64-x86_64-gtk3 (3.22.28-1 -> 3.24.13-1)
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.freedesktop.Geoclue” has path “/apps/geoclue/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.locale” has path “/system/locale/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy” has path “/system/proxy/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.http” has path “/system/proxy/http/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.https” has path “/system/proxy/https/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.ftp” has path “/system/proxy/ftp/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:42+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.socks” has path “/system/proxy/socks/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:51:55+0800] [ALPM] upgraded mingw-w64-x86_64-glade (3.21.0-1 -> 3.22.1-1)
+[2020-02-16T07:51:59+0800] [ALPM] upgraded mingw-w64-x86_64-libunistring (0.9.8-1 -> 0.9.10-1)
+[2020-02-16T07:51:59+0800] [ALPM] upgraded mingw-w64-x86_64-libidn2 (2.0.4-1 -> 2.3.0-1)
+[2020-02-16T07:52:02+0800] [ALPM] upgraded mingw-w64-x86_64-nettle (3.4-1 -> 3.5.1-1)
+[2020-02-16T07:52:25+0800] [ALPM] upgraded mingw-w64-x86_64-gnutls (3.6.1-1 -> 3.6.11.1-1)
+[2020-02-16T07:52:25+0800] [ALPM] installed mingw-w64-x86_64-libproxy (0.4.15-3)
+[2020-02-16T07:52:26+0800] [ALPM] installed mingw-w64-x86_64-adobe-source-code-pro-fonts (2.030ro+1.050it-1)
+[2020-02-16T07:52:33+0800] [ALPM-SCRIPTLET] Rebuilding fontconfig cache... done.
+[2020-02-16T07:52:34+0800] [ALPM] installed mingw-w64-x86_64-cantarell-fonts (0.201-1)
+[2020-02-16T07:52:39+0800] [ALPM-SCRIPTLET] Rebuilding fontconfig cache... done.
+[2020-02-16T07:52:44+0800] [ALPM] upgraded mingw-w64-x86_64-gsettings-desktop-schemas (3.24.1-1 -> 3.34.0-1)
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.freedesktop.Geoclue” has path “/apps/geoclue/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.locale” has path “/system/locale/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy” has path “/system/proxy/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.http” has path “/system/proxy/http/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.https” has path “/system/proxy/https/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.ftp” has path “/system/proxy/ftp/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:45+0800] [ALPM-SCRIPTLET] Warning: Schema “org.gnome.system.proxy.socks” has path “/system/proxy/socks/”.  Paths starting with “/apps/”, “/desktop/” or “/system/” are deprecated.
+[2020-02-16T07:52:48+0800] [ALPM] upgraded mingw-w64-x86_64-glib-networking (2.54.1-1 -> 2.62.3-1)
+[2020-02-16T07:52:49+0800] [ALPM] upgraded mingw-w64-x86_64-gobject-introspection-runtime (1.54.1-4 -> 1.62.0-2)
+[2020-02-16T07:52:56+0800] [ALPM] upgraded mingw-w64-x86_64-gsl (2.4-1 -> 2.6-1)
+[2020-02-16T07:52:56+0800] [ALPM] installed mingw-w64-x86_64-graphene (1.10.0-1)
+[2020-02-16T07:53:04+0800] [ALPM] upgraded mingw-w64-x86_64-gstreamer (1.12.4-1 -> 1.16.2-1)
+[2020-02-16T07:53:06+0800] [ALPM] upgraded mingw-w64-x86_64-libogg (1.3.3-1 -> 1.3.4-3)
+[2020-02-16T07:53:09+0800] [ALPM] upgraded mingw-w64-x86_64-libvorbis (1.3.5-2 -> 1.3.6-1)
+[2020-02-16T07:53:11+0800] [ALPM] upgraded mingw-w64-x86_64-opus (1.2.1-1 -> 1.3.1-1)
+[2020-02-16T07:53:13+0800] [ALPM] upgraded mingw-w64-x86_64-orc (0.4.28-1 -> 0.4.31-1)
+[2020-02-16T07:53:30+0800] [ALPM] installed mingw-w64-x86_64-iso-codes (4.4-1)
+[2020-02-16T07:53:39+0800] [ALPM] upgraded mingw-w64-x86_64-gst-plugins-base (1.12.4-1 -> 1.16.2-1)
+[2020-02-16T07:54:01+0800] [ALPM] upgraded mingw-w64-x86_64-gtk2 (2.24.32-1 -> 2.24.32-4)
+[2020-02-16T07:54:27+0800] [ALPM] upgraded mingw-w64-x86_64-icu (58.2-3 -> 65.1-1)
+[2020-02-16T07:54:32+0800] [ALPM] upgraded mingw-w64-x86_64-libgpg-error (1.27-1 -> 1.36-1)
+[2020-02-16T07:54:34+0800] [ALPM] upgraded mingw-w64-x86_64-libgcrypt (1.8.2-1 -> 1.8.5-1)
+[2020-02-16T07:54:39+0800] [ALPM] upgraded mingw-w64-x86_64-libidn (1.33-2 -> 1.35-1)
+[2020-02-16T07:54:40+0800] [ALPM] installed mingw-w64-x86_64-libpsl (0.21.0-2)
+[2020-02-16T07:54:40+0800] [ALPM] installed mingw-w64-x86_64-brotli (1.0.7-4)
+[2020-02-16T07:54:48+0800] [ALPM] upgraded mingw-w64-x86_64-libsoup (2.60.3-1 -> 2.68.3-1)
+[2020-02-16T07:54:50+0800] [ALPM] upgraded mingw-w64-x86_64-libwebp (0.6.1-1 -> 1.1.0-1)
+[2020-02-16T07:54:54+0800] [ALPM] upgraded mingw-w64-x86_64-libxslt (1.1.32-1 -> 1.1.34-2)
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET] Traceback (most recent call last):
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 546, in <module>
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     main()
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 528, in main
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     known_paths = addusersitepackages(known_paths)
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 272, in addusersitepackages
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     user_site = getusersitepackages()
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 241, in getusersitepackages
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     user_base = getuserbase() # this will also set USER_BASE
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 230, in getuserbase
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     from sysconfig import get_config_var
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET] ImportError: No module named sysconfig
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET] Traceback (most recent call last):
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 546, in <module>
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     main()
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 528, in main
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     known_paths = addusersitepackages(known_paths)
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 272, in addusersitepackages
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     user_site = getusersitepackages()
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 241, in getusersitepackages
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     user_base = getuserbase() # this will also set USER_BASE
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]   File "//LAPTOP-PO15ASV2/Users/Nouwenlianmarien/Desktop/KALAT/msys64/mingw64/lib/python2.7/site.py", line 230, in getuserbase
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET]     from sysconfig import get_config_var
+[2020-02-16T07:54:55+0800] [ALPM-SCRIPTLET] ImportError: No module named sysconfig
+[2020-02-16T07:54:55+0800] [ALPM] upgraded mingw-w64-x86_64-pygobject-devel (3.26.1-1 -> 3.34.0-3)
+[2020-02-16T07:57:25+0800] [ALPM] upgraded mingw-w64-x86_64-python2 (2.7.14-5 -> 2.7.17-1)
+[2020-02-16T07:57:25+0800] [ALPM] installed mingw-w64-x86_64-python-cairo (1.19.0-1)
+[2020-02-16T07:57:26+0800] [ALPM] installed mingw-w64-x86_64-python-gobject (3.34.0-3)
+[2020-02-16T07:57:30+0800] [ALPM] upgraded pcre (8.40-2 -> 8.43-2)
+[2020-02-16T07:57:32+0800] [ALPM] upgraded xz (5.2.3-1 -> 5.2.4-1)
+[2020-02-16T07:57:32+0800] [ALPM] upgraded pkgfile (17-1 -> 21-1)
+[2020-02-16T08:00:36+0800] [ALPM] upgraded python (3.6.2-1 -> 3.7.4-1)
+[2020-02-16T08:00:36+0800] [ALPM] upgraded python3-appdirs (1.4.3-2 -> 1.4.3-3)
+[2020-02-16T08:00:37+0800] [ALPM] installed python3-attrs (19.3.0-1)
+[2020-02-16T08:00:37+0800] [ALPM] upgraded python3-pyparsing (2.2.0-2 -> 2.4.4-1)
+[2020-02-16T08:00:38+0800] [ALPM] upgraded python3-six (1.10.0-5 -> 1.13.0-1)
+[2020-02-16T08:00:38+0800] [ALPM] upgraded python3-packaging (16.8-3 -> 19.2-1)
+[2020-02-16T08:00:45+0800] [ALPM] upgraded python3-setuptools (36.4.0-1 -> 41.6.0-1)
+[2020-02-16T08:01:10+0800] [ALPM] upgraded python3-pip (9.0.1-3 -> 19.3.1-1)
+[2020-02-16T08:01:11+0800] [ALPM] upgraded rebase (4.4.2-1 -> 4.4.4-1)
+[2020-02-16T08:01:15+0800] [ALPM] upgraded tar (1.30-1 -> 1.32-1)
+[2020-02-16T08:01:22+0800] [ALPM] upgraded time (1.7-1 -> 1.9-1)
+[2020-02-16T08:01:22+0800] [ALPM] upgraded ttyrec (1.0.8-1 -> 1.0.8-2)
+[2020-02-16T08:02:05+0800] [ALPM] upgraded tzcode (2018.c-1 -> 2019.a-1)
+[2020-02-16T08:02:10+0800] [ALPM] upgraded util-linux (2.26.2-1 -> 2.35-1)
+[2020-02-16T08:02:13+0800] [ALPM] upgraded wget (1.19.4-1 -> 1.20.3-1)
+[2020-02-16T08:02:14+0800] [ALPM] transaction completed

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Stylish-Dark-Laptop-Tang
+Comment=An Stylish Gtk+ theme based on Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Stylish-Dark-Laptop-Tang
+MetacityTheme=Stylish-Dark-Laptop-Tang
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close

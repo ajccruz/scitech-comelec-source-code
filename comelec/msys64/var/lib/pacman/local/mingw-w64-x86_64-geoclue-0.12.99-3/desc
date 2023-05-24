@@ -1,0 +1,46 @@
+%NAME%
+mingw-w64-x86_64-geoclue
+
+%VERSION%
+0.12.99-3
+
+%DESC%
+Modular Geoinformation Service (mingw-w64)
+
+%URL%
+http://geoclue.freedesktop.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1436522210
+
+%INSTALLDATE%
+1521361371
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+945152
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-glib2
+mingw-w64-x86_64-gtk2
+mingw-w64-x86_64-libxml2
+mingw-w64-x86_64-libxslt
+mingw-w64-x86_64-dbus-glib
+
+%OPTDEPENDS%
+mingw-w64-x86_64-libsoup: Skyhook location provider
+

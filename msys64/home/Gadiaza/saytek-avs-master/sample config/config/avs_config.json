@@ -1,0 +1,38 @@
+{"ui_config": {
+    "assetsFolder": "sample config/pictures/17-18_real/",
+    "pictureFormat": ".jpg",
+    "officeBoxSpacing": 10,
+    "maxOfficesPerColumn": 4,
+    "legacyMode": false
+
+    },
+
+"db_config": {
+    "votes_db": "votesDB.db",
+    "voter_db": "voterDB.db",
+    "master_db": "sample config/masterdb/masterDB.db"
+    },
+
+"server_config": {
+    "serverFolder": "serverFolder/",
+    "maxPCNum": 9
+    },
+
+"offices": [
+    "President",
+    "Vice President",
+    "Secretary",
+    "Auditor",
+    "PIO",
+    "Peace Officer",
+    "Treasurer",
+    "Grade 8 Representative",
+    "Grade 9 Representative",
+    "Grade 10 Representative",
+    "Grade 11 Representative",
+    "Grade 12 Representative"
+    
+    ],
+
+"pre_election": true
+}

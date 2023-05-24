@@ -1,0 +1,56 @@
+{"ui_config": {
+    "assetsFolder": "assets/",
+    "pictureFormat": ".svg",
+    "officeBoxSpacing": 10,
+    "maxOfficesPerColumn": 4,
+    "votesDB": "votes.json"
+
+    },
+
+"offices": [
+    "President",
+    "Vice President",
+    "Secretary",
+    "Auditor",
+    "PIO",
+    "Peace Officer",
+    "Treasurer",
+    "Grade 8 Representative",
+    "Grade 9 Representative",
+    "Grade 10 Representative",
+    "Grade 11 Representative",
+    "Grade 12 Representative"
+    
+    ],
+
+"Party N.E.E.D.S": {
+    "President": "Anthony Raymond Bugaoan",
+    "Vice President": "Jubilee Jan Amo",
+    "Secretary": "Krisa Jo Hannah Villamin",
+    "Treasurer": "Vincent Emmanuel Dela Cruz",
+    "Auditor": "Sophia Loren Cruz",
+    "PIO": "John Samuel Yutuc",
+    "Peace Officer": "Estelle Marie Simeon", 
+    "Grade 8 Representative": "Kristine Berdin",
+    "Grade 9 Representative": "Gerlyn De Borja",
+    "Grade 10 Representative": "Justine Catindig",
+    "Grade 11 Representative": "Arvi Charlize Pascual",
+    "Grade 12 Representative": "Mary Vanessa Castillo"
+    
+    },
+
+"The Breakup PartyList": {
+    "President": "Joshua Mari Malabanan",
+    "Vice President": "Ysabel Nicole Bautista",
+    "Secretary": "Angelica Ann Gracia",
+    "Treasurer": "Daniela Nicole Salvador",
+    "Auditor": "Danica Salvador",
+    "PIO": "Jhon Ivan Solomon",
+    "Peace Officer": "Alyssa Ashley Quililan",
+    "Grade 8 Representative": "Patricia Ann Arena",
+    "Grade 9 Representative": "Szophia Valeriee Ceniza",
+    "Grade 10 Representative": "Aurielle Nisa De Los Reyes",
+    "Grade 11 Representative": "Richelle Mae Asis"
+
+    }
+}

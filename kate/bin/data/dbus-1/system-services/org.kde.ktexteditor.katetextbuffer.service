@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.kde.ktexteditor.katetextbuffer
+Exec=C:/Craft/BinaryFactory/windows-msvc2017_64-cl/bin/kauth/kauth_ktexteditor_helper
+User=root

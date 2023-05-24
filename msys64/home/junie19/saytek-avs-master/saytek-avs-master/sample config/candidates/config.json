@@ -1,0 +1,68 @@
+{"configOptions": {
+    "assetsFolder": "assets/",
+    "pictureFormat": ".svg",
+    "officeBoxSpacing": 10,
+    "maxOfficesPerColumn": 4,
+    "votesDB": "votes.json"
+
+    },
+
+"offices": [
+    "President",
+    "Vice President",
+    "Secretary",
+    "Auditor",
+    "PIO",
+    "Peace Officer",
+    "Treasurer",
+    "Grade 7 Representative",
+    "Grade 8 Representative",
+    "Grade 9 Representative",
+    "Grade 10 Representative",
+    "Grade 11 Representative",
+    "Grade 12 Representative"
+    
+    ],
+
+"Party N.E.E.D.S": {
+    "President": "P1",
+    "Vice President": "P2",
+    "Secretary": "P3",
+    "Auditor": "PP",
+    "PIO": "LP",
+    "Treasurer": "PL",
+    "Grade 7 Representative": "PF",
+    "Grade 8 Representative": "PN",
+    "Grade 9 Representative": "TP",
+    "Grade 10 Representative": "Some Guy",
+    "Grade 11 Representative": "PP",
+    "Grade 12 Representative": "LP"
+    
+    },
+
+"The Breakup PartyList": {
+    "President": "Some Guy",
+    "Vice President": "PL",
+    "Secretary": "TP",
+    "Auditor": "Herculer Mulligan",
+    "PIO": "PN",
+    "Peace Officer": "Some Guy",
+    "Treasurer": "Austin Dela Cruz",
+    "Grade 7 Representative": "P1",
+    "Grade 8 Representative": "P2",
+    "Grade 9 Representative": "P3",
+    "Grade 10 Representative": "LP",
+    "Grade 11 Representative": "PR",
+    "Grade 12 Representative": "TP"
+    
+    },
+
+"The random Party": {
+    "President": "Austin Dela Cruz"
+    },
+
+"Party Party": {
+    "President": "P1",
+    "Treasurer": "Some Guy"
+    }
+}

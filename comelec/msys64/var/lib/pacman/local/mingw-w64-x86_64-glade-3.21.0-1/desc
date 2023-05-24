@@ -1,0 +1,45 @@
+%NAME%
+mingw-w64-x86_64-glade
+
+%VERSION%
+3.21.0-1
+
+%BASE%
+mingw-w64-glade
+
+%DESC%
+User interface builder for GTK+ and GNOME (mingw-w64)
+
+%URL%
+https://glade.gnome.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1518512165
+
+%INSTALLDATE%
+1521361450
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+10838016
+
+%LICENSE%
+GPL
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-gtk3
+mingw-w64-x86_64-libxml2
+mingw-w64-x86_64-adwaita-icon-theme
+
+%OPTDEPENDS%
+mingw-w64-x86_64-python2: Python widgets support
+

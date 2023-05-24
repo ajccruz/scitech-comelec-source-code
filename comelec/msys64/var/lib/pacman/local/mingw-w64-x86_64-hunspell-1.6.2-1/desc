@@ -1,0 +1,50 @@
+%NAME%
+mingw-w64-x86_64-hunspell
+
+%VERSION%
+1.6.2-1
+
+%BASE%
+mingw-w64-hunspell
+
+%DESC%
+Spell checker and morphological analyzer library and program (mingw-w64)
+
+%URL%
+https://hunspell.github.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1504513763
+
+%INSTALLDATE%
+1521361330
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+2653184
+
+%REASON%
+1
+
+%LICENSE%
+GPL2+
+LGPL2.1+
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-gcc-libs
+mingw-w64-x86_64-gettext
+mingw-w64-x86_64-ncurses
+mingw-w64-x86_64-readline
+
+%OPTDEPENDS%
+perl: for ispellaff2myspell
+mingw-w64-x86_64-readline: for hunspell program
+
